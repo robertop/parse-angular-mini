@@ -1,3 +1,7 @@
+Parse Angular Mini App
+----------------------
+This is a small angular app that uses parse for user authentication.
+The app is meant to be deployed to a parse sub-domain.
 
 Pre-requisites
 --------------
