@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.4.2"
+  },
+  "applications": {
+    "_default": {
+      "link": "YOUR-PARSE-APP-NAME-HERE"
+    },
+    "YOUR-PARSE-APP-NAME-HERE": {
+      "applicationId": "YOUR-PARSE-APP-ID-HERE",
+      "masterKey": "YOUR-PARSE-APP-MASTER-KEY-HERE"
+    }
+  }
+}
