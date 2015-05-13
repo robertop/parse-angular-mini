@@ -1,8 +1,7 @@
 .idea
-.DS_Store
 node_modules
 bower_components
 app/config.js
 public
 config/global.json
-
+.DS_Store
